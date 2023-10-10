@@ -1,4 +1,4 @@
-const routes = require('./routes/api');
+const routes = require('./routes');
 const express = require('express');
 const db = require('./config/connection');
 
